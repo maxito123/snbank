@@ -1,4 +1,4 @@
-               snbank
+               SNBANK
 
 This is a banking system console programme that provide staffs that already have account to login. 
 
