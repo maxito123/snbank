@@ -2,10 +2,6 @@ Username:maxito
 Password:stage5
 Email:maxito@gmail.com
 Full Name: Maximus Oguamanam
-<<<<<<< HEAD
-=======
-
->>>>>>> 9e588defdedf6f66b33f5ff67db35f5e1c19633b
 Username:startng
 Password:project
 Email:startng@gmail.com
